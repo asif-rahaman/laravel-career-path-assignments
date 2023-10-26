@@ -1,0 +1,10 @@
+[
+    {
+        "id":1,
+        "sub_tittle": "I can help your business to",
+        "tittle":"Get online and grow fast",
+        "img_url":"template/assets/profile.png",
+        "button_1_url":"#resume",
+        "button_2_url":"/projects"
+    }
+]

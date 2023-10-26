@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "period": "2019 - Present",
+        "position": "Sr. Web Developer",
+        "company" : "Stark Industries",
+        "address" : "Los Angeles, CA",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."
+    },
+    {
+        "id": 2,
+        "period": "2017 - 2019",
+        "position": "SEM Specialist",
+        "company" : "Wayne Enterprises",
+        "address" : "Gotham City, NY",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."
+    },
+    {
+        "id": 3,
+        "period": "2015 - 2017",
+        "position": "Web Designer",
+        "company" : "Wayne Enterprises",
+        "address" : "Gotham City, NY",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."        
+    }
+]

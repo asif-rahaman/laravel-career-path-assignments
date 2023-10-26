@@ -1,0 +1,14 @@
+Build your portfolio site using Laravel
+
+Features
+
+You should implement the following pages in your portfolio site:
+Home
+Work experience
+Projects (Clicking on each project will open a new page with the project details)
+Instructions
+Setup your development environment and Install a fresh Laravel application
+Use Laravel’s routing, Controller, and View to build your portfolio website
+Don’t use Database
+Keep your data in JSON files in the `storage/data` folder and load them before serving the pages
+The web page design is not the priority in this assignment. You can copy any HTML template to design the site or build the design by yourself using HTML and CSS.
